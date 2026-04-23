@@ -6,6 +6,9 @@ This application lets you convert text into Morse code, play it with realistic t
 
 ---
 
+## 🎥 Demo
+![Morse Code Machine](assets/demo.gif)
+
 ## ✨ Features
 
 * 🔤 Convert text to Morse code instantly
